@@ -90,9 +90,9 @@ Analysis of top players (5+ titles) showing win ratios by country with gender di
 australian-open-visual-analytics/
 │
 ├──  README.md                    # This file
-├──  25015126_A2.twbx             # Tableau workbook with all visualizations
-├──  25015126_A2.xlsm             # Excel data with calculations and macros
-├──  25015126_A2.pdf              # Detailed analysis report
+├──  Australia_Open.twbx             # Tableau workbook with all visualizations
+├──  Australia_Open.xlsm             # Excel data with calculations and macros
+├──  Australia_Open.pdf              # Detailed analysis report
 │
 └──  docs/
     └──  images/                  # Visualization screenshots
@@ -142,7 +142,7 @@ australian-open-visual-analytics/
 
 ### Viewing the Visualizations
 1. Clone this repository
-2. Open `25015126_A2.twbx` in Tableau
+2. Open `Australia_Open.twbx` in Tableau
 3. Navigate through the dashboard tabs to explore different visualizations
 
 ---
