@@ -70,11 +70,17 @@ Dual-axis map combining symbol maps and choropleth visualization to show:
 - **Symbol Map:** Champion countries with wins represented by bubble size
 - **Geo Map:** Runner-up countries with games lost shown through color intensity
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-11 131423" src="https://github.com/user-attachments/assets/8f1b485a-64d8-42e3-85da-2808d5478044" />
+
 ### 3. Parallel Coordinates
 Multi-dimensional visualization tracking player performance across all five sets, color-coded by gender (blue for men, orange for women). Reveals patterns in match progression and set dynamics.
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-11 132320" src="https://github.com/user-attachments/assets/e49b0457-9432-4148-8b85-d6453c82a58a" />
+
 ### 4. Scatter Plot
 Analysis of top players (5+ titles) showing win ratios by country with gender differentiation. Enables comparison of elite player performance metrics.
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-11 132501" src="https://github.com/user-attachments/assets/50f5eed5-64b5-42dc-bb9b-eacd499735f5" />
 
 ---
 
@@ -143,7 +149,7 @@ australian-open-visual-analytics/
 
 ## 📖 Documentation
 
-For detailed analysis methodology and findings, refer to the [Analysis Report (PDF)](25015126_A2.pdf).
+For detailed analysis methodology and findings, refer to the [Analysis Report (PDF)](Australia_Open.pdf).
 
 ---
 
