@@ -2,12 +2,12 @@
 Visual analytics of 120 years of Australian Open Tennis Championship data. Explores champion win ratios, player evolution, and global participation using tree maps, geo maps, parallel coordinates, and scatter plots in Tableau.
 
 
-# 🎾 Australian Open Visual Analytics
+#  Australian Open Visual Analytics
 
 > **Data Visualization and Visual Analytics of 120 Years of Australian Open Tennis Championship (1905-2024)**
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 | Metric | Value |
 |--------|-------|
@@ -18,11 +18,11 @@ Visual analytics of 120 years of Australian Open Tennis Championship data. Explo
 | **Unique Champions** | 110 |
 | **Countries Represented** | 22 |
 
-> ⚠️ **Note:** Data for 2020 and 2021 is excluded due to COVID-19 pandemic disruptions.
+>  **Note:** Data for 2020 and 2021 is excluded due to COVID-19 pandemic disruptions.
 
 ---
 
-## 🏆 Key Statistics
+##  Key Statistics
 
 ### Top 10 Champions by Titles
 
@@ -56,7 +56,7 @@ Visual analytics of 120 years of Australian Open Tennis Championship data. Explo
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 This project includes four main visualization types:
 
@@ -84,23 +84,23 @@ Analysis of top players (5+ titles) showing win ratios by country with gender di
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 australian-open-visual-analytics/
 │
-├── 📄 README.md                    # This file
-├── 📊 25015126_A2.twbx             # Tableau workbook with all visualizations
-├── 📑 25015126_A2.xlsm             # Excel data with calculations and macros
-├── 📝 25015126_A2.pdf              # Detailed analysis report
+├──  README.md                    # This file
+├──  25015126_A2.twbx             # Tableau workbook with all visualizations
+├──  25015126_A2.xlsm             # Excel data with calculations and macros
+├──  25015126_A2.pdf              # Detailed analysis report
 │
-└── 📁 docs/
-    └── 📁 images/                  # Visualization screenshots
+└──  docs/
+    └──  images/                  # Visualization screenshots
 ```
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Tableau Desktop** - Primary visualization tool
 - **Microsoft Excel** - Data preprocessing and calculations
@@ -108,7 +108,7 @@ australian-open-visual-analytics/
 
 ---
 
-## 📋 Data Attributes
+##  Data Attributes
 
 | Attribute Type | Examples |
 |---------------|----------|
@@ -120,7 +120,7 @@ australian-open-visual-analytics/
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. **Dominance of Australian Players:** Australia leads with 94 titles, largely due to home advantage and historical tennis culture.
 
@@ -134,7 +134,7 @@ australian-open-visual-analytics/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Tableau Desktop or Tableau Reader (for .twbx file)
@@ -147,13 +147,13 @@ australian-open-visual-analytics/
 
 ---
 
-## 📖 Documentation
+##  Documentation
 
 For detailed analysis methodology and findings, refer to the [Analysis Report (PDF)](Australia_Open.pdf).
 
 ---
 
-## 👤 Author
+##  Author
 
 **Aryan Bansal**  
 Program: Master of Business Analytics (Extension)  
@@ -162,14 +162,10 @@ University of Technology Sydney
 ---
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - University of Technology Sydney - DATA VISUALISATION AND VISUAL ANALYTICS course
 - Australian Open for historical tournament data
 - Tableau community for visualization best practices
 
 ---
-
-<p align="center">
-  <i>Made with ❤️ for Data Visualization</i>
-</p>
